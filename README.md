@@ -1,43 +1,48 @@
-<!-- 🌠 Typing Header -->
+<!-- 🌌 Hi, I'm SiaPlay -->
+<h1 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" /> 
+  Hi there, I'm <strong>SiaPlay</strong>
+</h1>
+<h3 align="center">🚀 AI | ML | Edge-Tech Enthusiast & Backend Developer ⚙️</h3>
+
+---
+
+<!-- 🔮 Animated Tech Stack (GIF + Logos) -->
+<h2 align="center">🛠️ Languages & Tools I Love</h2>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=36&duration=3000&pause=1000&color=00FFE7&center=true&vCenter=true&width=1000&lines=Hey+I'm+SiaPlay+🌌;Building+Futuristic+Experiences+🚀;Edge+AI+%7C+ML+%7C+Backend+Wizardry+⚙️" />
+  <img src="https://github.com/Siaplay/siaplay/assets/your_placeholder/js.gif" width="50"/>
+  <img src="https://github.com/Siaplay/siaplay/assets/your_placeholder/node.gif" width="50"/>
+  <img src="https://github.com/Siaplay/siaplay/assets/your_placeholder/python.gif" width="50"/>
+  <img src="https://github.com/Siaplay/siaplay/assets/your_placeholder/cpp.gif" width="50"/>
+  <img src="https://github.com/Siaplay/siaplay/assets/your_placeholder/html5.gif" width="50"/>
+  <img src="https://github.com/Siaplay/siaplay/assets/your_placeholder/css3.gif" width="50"/>
+  <img src="https://github.com/Siaplay/siaplay/assets/your_placeholder/mongodb.gif" width="50"/>
+  <img src="https://github.com/Siaplay/siaplay/assets/your_placeholder/bootstrap.gif" width="50"/>
 </p>
 
 ---
 
-<!-- 🚀 Animated Floating Logos (GIF Simulation) -->
-<h2 align="center">Tech Stack — Always in Motion</h2>
+<!-- 📊 GitHub Stats -->
+<h2 align="center">📈 My GitHub Journey</h2>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50px" alt="JavaScript">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="50px" alt="Node.js">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="50px" alt="Express">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50px" alt="Python">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="50px" alt="C++">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="50px" alt="HTML5">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="50px" alt="CSS3">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="50px" alt="Bootstrap">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="50px" alt="GitHub">
+  <img src="https://github-readme-stats.vercel.app/api?username=siaplay&show_icons=true&theme=merko&border_radius=10" width="47%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=siaplay&theme=merko" width="47%" />
 </p>
 
 ---
 
-<!-- 📈 GitHub Stats -->
-<h2 align="center">My GitHub Journey 📈</h2>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=siaplay&show_icons=true&theme=radical&border_radius=15&title_color=00FFE0&icon_color=FF5DE7" width="48%" alt="GitHub Stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=siaplay&theme=radical&ring=00ffe0&fire=ff69b4" width="48%" alt="Streak Stats">
+<!-- 💡 Personal Quote -->
+<p align="center" style="font-size:18px">
+  <strong>“Code is the brush, and reality is the canvas. Let’s paint the future.”</strong><br/>
+  <em>– SiaPlay 🎨</em>
 </p>
 
 ---
 
-<!-- ✨ Futuristic Quote Typing -->
+<!-- 🔗 Let's Connect -->
+<h2 align="center">🌐 Let's Connect</h2>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F0FF00&center=true&vCenter=true&width=800&lines=Create.+Break.+Repeat.;Code+is+my+canvas+🎨;Explore.+Experiment.+Evolve." alt="Typing Quote" />
-</p>
-
----
-
-<!-- 🌊 Ending Capsule Banner -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/trekhleb/capsule-render/main/docs/capsule-wave.png" width="100%" alt="Capsule Footer Wave" />
+  <a href="https://linkedin.com/in/yourlink" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
+  <a href="https://instagram.com/yourhandle" target="_blank"><img src="https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram" /></a>
+  <a href="mailto:youremail@gmail.com"><img src="https://img.shields.io/badge/Email-grey?style=for-the-badge&logo=gmail" /></a>
 </p>
