@@ -15,13 +15,31 @@
 
 ---
 
-## 🧰 Tech I Groove With
+## 🧰 Tech Stack — Dancing Logos Edition 💃🕺
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,nodejs,express,mongodb,python,cpp,html,css,bootstrap,git,github,vscode&perline=7" height="120"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" style="animation: pop 2s ease-in-out infinite;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="60" style="animation: pop 2.2s ease-in-out infinite;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="60" style="animation: pop 2.4s ease-in-out infinite;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="60" style="animation: pop 2.6s ease-in-out infinite;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" style="animation: pop 2.8s ease-in-out infinite;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="60" style="animation: pop 3s ease-in-out infinite;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60" style="animation: pop 3.2s ease-in-out infinite;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60" style="animation: pop 3.4s ease-in-out infinite;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="60" style="animation: pop 3.6s ease-in-out infinite;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60" style="animation: pop 3.8s ease-in-out infinite;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="60" style="animation: pop 4s ease-in-out infinite;"/>
 </p>
 
----
+<!-- CSS Animations for dancing effect -->
+<style>
+@keyframes pop {
+  0%   { transform: scale(1) translateY(0); opacity: 0.8; }
+  50%  { transform: scale(1.2) translateY(-10px); opacity: 1; }
+  100% { transform: scale(1) translateY(0); opacity: 0.8; }
+}
+</style>
+
 
 ## 📈 Stats That Matter
 
