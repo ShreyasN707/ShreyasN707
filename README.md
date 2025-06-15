@@ -1,73 +1,75 @@
-<!-- Typing Header with glow effect -->
+<!-- 🔮 Cyber Typing Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=00FFF7&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+SiaPlay!+%F0%9F%91%8B;Backend+%7C+AI%2FML+%7C+Edge+Tech+Explorer;Code+is+my+canvas%2C+Tech+is+my+art.+" alt="Typing Intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=800&lines=Hey%2C+I'm+SiaPlay+%F0%9F%91%8B;Backend+%7C+AI%2FML+%7C+Edge+Tech+Explorer;Crafting+the+Future+with+Code+and+Creativity" alt="Typing SVG" />
 </p>
 
 ---
 
-## 🌟 About Me
+## 🌌 About Me
 
-> 🎯 **BACKEND CODER** — Clean APIs, real-time apps, scalable logic  
-> 🤖 **DIVE INTO AI/ML** — Edge AI, Quantum Experiments, Embedded Intelligence  
-> 🎬 **VIDEO EDITOR & PHOTOGRAPHER** — Documenting life through lenses & lines of code  
-
----
-
-## 🚀 Languages & Tools I Know
-
-<!-- Simulated animation: icons shake subtly with glitch/gif styling -->
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,nodejs,express,mongodb,python,cpp,html,css,bootstrap,git,github,vscode&perline=9" alt="Tools" />
-</p>
-
-<!-- Animated bounce badges to simulate movement -->
-<p align="center">
-  <img src="https://img.shields.io/badge/Code%20Ninja-Backend-blue?style=flat-square&logo=codeforces&logoColor=white&labelColor=000&color=blue" />
-  <img src="https://img.shields.io/badge/MongoDB-Fire%20Stack-green?style=flat-square&logo=mongodb&logoColor=white&labelColor=000" />
-  <img src="https://img.shields.io/badge/ML-PyTorch%2FTF-yellow?style=flat-square&logo=python&logoColor=black&labelColor=000" />
-</p>
+> ⚡️ Backend Dev | 🚀 Edge-AI Builder | 🎥 Visual Storyteller  
+> 👨‍💻 Turning raw data into magic & real-time systems  
+> 🧠 Quantum AI & Robotics enthusiast | Embedded Innovator  
+> 📸 Capturing life through code & camera  
 
 ---
 
-## 📈 GitHub Dashboard
+## 🛠️ Tech Stack
 
-<!-- Stylish & dark themed -->
+<!-- Logos with animation vibes -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=siaplay&show_icons=true&theme=radical&hide_border=true&title_color=00ffe1&icon_color=00ffe1" width="47%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=siaplay&theme=radical&hide_border=true&ring=00FFE0&fire=FF5B5B" width="47%" />
+  <img src="https://skillicons.dev/icons?i=js,nodejs,express,mongodb,python,cpp,html,css,bootstrap,git,github,vscode&perline=8" alt="Languages & Tools" />
 </p>
 
+<!-- Glowing badges that pulse with purpose -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siaplay&layout=compact&theme=radical&hide_border=true&langs_count=8&title_color=00ffe1" width="40%" />
+  <img src="https://img.shields.io/badge/Backend-Focused-informational?style=flat-square&logo=fastapi&logoColor=00fffb&labelColor=0f0f0f&color=5d3fd3" />
+  <img src="https://img.shields.io/badge/Edge%20AI-In%20Progress-critical?style=flat-square&logo=raspberrypi&logoColor=ff0050&labelColor=0f0f0f&color=ff61f6" />
+  <img src="https://img.shields.io/badge/Visual%20Editor-CapCut%20%7C%20DaVinci-critical?style=flat-square&logo=adobeaftereffects&logoColor=white&labelColor=0f0f0f&color=00ffd5" />
 </p>
 
 ---
 
-## 🛠️ Current Tech Stack
+## 🚀 My Tools — In Action (Scroll)
 
-<marquee behavior="scroll" direction="left" scrollamount="8">
+<marquee behavior="scroll" direction="left" scrollamount="7">
   <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Kotlin-FE7B00?logo=kotlin&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge" />
 </marquee>
 
 ---
 
-## 🎯 My Goals for 2025
+## 📊 GitHub Dashboard
 
-- 🌡️ Deploy an **Edge-AI SpO2 Monitor** on ESP32  
-- 🎞️ Publish a **College Life Tech Documentary**  
-- 🤖 Build an RC Vehicle Controlled via AI  
-- 🧠 Learn & Implement **Quantum Machine Learning**  
-- 💼 Intern with a DeepTech Research Lab
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=siaplay&show_icons=true&theme=tokyonight&hide_border=true&title_color=00ffe1&icon_color=00ffe1" width="47%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=siaplay&theme=tokyonight&hide_border=true&ring=00FFE0&fire=FF5B5B" width="47%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siaplay&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&title_color=00ffe1" width="40%" />
+</p>
 
 ---
 
-## 🌐 Let's Connect!
+## 🎯 2025 Vision Board
+
+- 🧠 Master Quantum AI & TinyML for Edge Devices  
+- 🔬 Build & deploy an embedded health-monitoring system  
+- 🎥 Direct a short documentary on *Life @ Tech Campus*  
+- 🌐 Land a deeptech internship with research impact  
+- 🤖 Automate an RC vehicle with live neural control  
+
+---
+
+## 🤝 Let's Connect
 
 <p align="center">
   <a href="https://linkedin.com/in/your-link" target="_blank">
@@ -84,7 +86,7 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=FBFF00&center=true&vCenter=true&width=600&lines=Create.+Break.+Repeat.;That's+how+innovation+happens." />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=FBFF00&center=true&vCenter=true&width=600&lines=Create.+Break.+Repeat.;That's+how+innovation+happens." />
   <br />
   <strong>– SiaPlay</strong>
 </p>
