@@ -7,16 +7,16 @@
 
 ## 🧠 About Me
 
-> Full Stack Dev • ML Hacker • Quantum Curious • Real-Time System Builder  
-> Building systems that **sense, learn, and adapt.**  
-> Currently: working on Edge ML, silent Android apps, and robotics AI!
+> BACKEND-CODER---
+> TO DIVE INTO AI%ML---
+> VEDIO EDITOR &! PHOTOGRAPHER---
 
 ---
 
 ## ⚒️ Languages & Tools I Know
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,nodejs,express,mongodb,python,cpp,arduino,kotlin,java,html,css,bootstrap,figma,git,github,vscode,tensorflow,linux&perline=9" style="animation: float 3s ease-in-out infinite;" />
+  <img src="https://skillicons.dev/icons?i=js,nodejs,express,mongodb,python,cpp,html,css,bootstrap,git,github,vscode &perline=9" style="animation: float 3s ease-in-out infinite;" />
 </p>
 
 <!-- Add some dancing animation to the logos -->
