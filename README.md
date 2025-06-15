@@ -1,77 +1,67 @@
-<!-- 🧠 BIG Typing Header -->
+<!-- 🧠 BIG Animated Typing Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=36&pause=1000&color=00F0FF&center=true&vCenter=true&width=1000&lines=Hey%2C+I'm+SiaPlay+%F0%9F%91%8B;AI+%7C+ML+%7C+Edge+Tech+Explorer;Creating+Magic+with+Code+%26+Camera" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=38&pause=1000&color=00F0FF&center=true&vCenter=true&width=1000&lines=Hey%2C+I'm+SiaPlay+%F0%9F%91%8B;Backend+Developer+%7C+AI%2FML+Explorer+%7C+Edge-Tech+Builder;Turning+Code+into+Futuristic+Experiences" alt="Typing SVG" />
 </p>
 
 ---
 
-## 🚨 WHO AM I
+## 💡 Who's SiaPlay?
 
-<p align="center" style="font-size: 22px;">
-  💻 <b>Backend Engineer</b> | 🔍 <b>AI/ML Explorer</b> | 🎥 <b>Visual Storyteller</b><br/>
-  🧠 Obsessed with futuristic tech. From edge devices to neural nets.<br/>
-  🎬 Capturing code & campus in cinematic frames.
+<p align="center">
+  🧑‍💻 <strong>Backend Prodigy</strong> | 🤖 <strong>AI/ML Enthusiast</strong> | 🎬 <strong>Visual Content Creator</strong><br>
+  🧠 Exploring Quantum AI + Edge Intelligence<br>
+  🎥 Crafting cinema from campus and code
 </p>
 
 ---
 
-## ⚒️ BIG TECH I USE
+## 🚨 Tech Stack That Powers My Code
 
-<!-- 🪩 Animated dancing logos (simulated with float bounce) -->
+<!-- Glowing bouncing tech logos -->
 <p align="center">
-  <img height="64px" src="https://skillicons.dev/icons?i=js,nodejs,express,mongodb,python,cpp,html,css,bootstrap,git,github,vscode&perline=6" />
-</p>
 
-<!-- ⚙️ CSS-style animation simulation -->
-<p align="center">
-  <img src="https://img.shields.io/badge/Backend--API%20Master-0f0f0f?style=for-the-badge&logo=fastapi&logoColor=00ffff&labelColor=0f0f0f&color=5d3fd3" />
-  <img src="https://img.shields.io/badge/Machine%20Learning-🔥%20EdgeAI-0f0f0f?style=for-the-badge&logo=python&logoColor=yellow&color=ff00ff" />
-  <img src="https://img.shields.io/badge/Editor--Ninja-Cinematic%20Cutz-0f0f0f?style=for-the-badge&logo=adobeaftereffects&logoColor=white&color=00ffff" />
+  <!-- Each logo is spaced, oversized, and 'bouncy' in sequence -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="70" alt="JavaScript" style="margin: 20px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="70" alt="Node.js" style="margin: 20px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="70" alt="Express" style="margin: 20px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="70" alt="MongoDB" style="margin: 20px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="70" alt="Python" style="margin: 20px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="70" alt="C++" style="margin: 20px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="70" alt="HTML" style="margin: 20px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="70" alt="CSS" style="margin: 20px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="70" alt="Bootstrap" style="margin: 20px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="70" alt="Git" style="margin: 20px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="70" alt="GitHub" style="margin: 20px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="70" alt="VSCode" style="margin: 20px;" />
+
 </p>
 
 ---
 
-## 🎨 TECH PARADE
-
-<marquee behavior="scroll" direction="left" scrollamount="8">
-  <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" />
-</marquee>
-
----
-
-## 📊 MY GITHUB EMPIRE
+## 📊 GitHub Status Board
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=siaplay&show_icons=true&theme=radical&hide_border=true&title_color=00ffe1&icon_color=00ffe1" width="47%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=siaplay&theme=radical&hide_border=true&ring=00FFE0&fire=FF5B5B" width="47%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=siaplay&show_icons=true&theme=tokyonight&hide_border=true&title_color=00FFE1&icon_color=00FFE1" width="47%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=siaplay&theme=tokyonight&hide_border=true&ring=00FFE1&fire=FF69B4" width="47%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siaplay&layout=compact&theme=radical&hide_border=true&langs_count=8&title_color=00ffe1" width="40%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siaplay&layout=compact&theme=tokyonight&hide_border=true&title_color=00FFE1" width="40%" />
 </p>
 
 ---
 
-## 🎯 MY BIG 2025 GOALS
+## 🎯 My 2025 Tech Goals
 
-### ✨ `The Dream Board`
-- 🩺 Launch a futuristic **Edge-AI SpO2 Health Tracker**
-- 🎬 Direct a documentary on **Tech + College Life**
-- 🧠 Dive deep into **Quantum AI & Neural Systems**
-- 🔭 Intern with a **Research Lab / DeepTech Startup**
-- 🚗 Automate a **RC vehicle** using **real-time ML inference**
+- ⚙️ Build an **Edge-AI powered health device** for real-time monitoring  
+- 🎥 Launch a **cinematic tech + college life documentary**  
+- 🧠 Study **Quantum AI** and neural computing models  
+- 🚀 Land an **internship at a deeptech or research startup**  
+- 🛰️ Work on real-time robotics control via **remote AI inference**
 
 ---
 
-## 🌐 LET’S GET SOCIAL
+## 🌐 Connect With Me
 
 <p align="center">
   <a href="https://linkedin.com/in/your-link" target="_blank">
@@ -88,7 +78,7 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=FBFF00&center=true&vCenter=true&width=700&lines=Create.+Break.+Repeat.;That's+how+innovation+happens." />
-  <br />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2000&pause=1000&color=FBBF24&center=true&vCenter=true&width=750&lines=Create.+Break.+Repeat.;That%27s+How+Innovation+Happens." />
+  <br/>
   <strong>— SiaPlay</strong>
 </p>
