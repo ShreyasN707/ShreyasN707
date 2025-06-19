@@ -1,7 +1,7 @@
-<!-- 🌟 Shreyas Naik | Clean & Creative GitHub README -->
+<!-- 🌟 Shreyas Naik | Neo-Aesthetic GitHub README -->
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&width=600&lines=I'm+a+Video+Editor;I'm+a+Developer;I'm+a+Backend+Engineer;I'm+an+AIML+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=C147E9&center=false&vCenter=true&width=650&lines=Wanna+know+me%3F...;I'm+a+Video+Editor;I'm+a+Photographer;I'm+a+Backend+Engineer;I'm+an+AIML+Enthusiast" alt="Typing SVG" />
 </a>
 
 <img src="https://komarev.com/ghpvc/?username=aditzz073&style=flat-square&color=7f5af0" alt="Profile views" />
@@ -24,8 +24,9 @@
 ## 🧠 About Me
 
 - 🎬 Creative **Video Editor** with a passion for visual storytelling  
+- 📸 Passionate **Photographer** capturing life in frames  
 - 💻 Full-stack developer with **Node.js**, **C/C++**, **PostgreSQL**, **Python**, **JavaScript**  
-- 🌐 Comfortable with **HTML, CSS, Bootstrap, Express, MongoDB**  
+- 🌐 Fluent in **HTML, CSS, Bootstrap, Express, MongoDB**  
 - 🤖 AIML enthusiast exploring intelligent backend systems  
 
 ## 🌐 Connect with Me
