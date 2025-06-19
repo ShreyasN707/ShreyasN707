@@ -29,20 +29,27 @@
 
 <h2><span style="color:#39FF14">Know me more?... Connect here:</span></h2>
 
-<a href="https://instagram.com/adityaaa073">
+<a href="https://www.instagram.com/shreyas__n?igsh=MW0yZ2trazV4cXZvYw==">
   <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
-<a href="https://www.linkedin.com/in/aditya-pujer/">
+<a href="https://www.linkedin.com/in/shreyas-naik-44717b332">
   <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="mailto:pujeradi@gmail.com">
+<a href="mailto:shreyasnaik81@gamil.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 ## 📊 GitHub Stats
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=aditzz073&theme=monokai&hide_border=true" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditzz073&theme=monokai&hide_border=true&layout=compact" width="48%" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aditzz073&show_icons=true&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditzz073&layout=donut&theme=radical&hide_border=true" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=aditzz073&bg_color=0d1117&color=39FF14&line=39FF14&point=ffffff&area=true&hide_border=true"/>
+</p>
+
 
 ## ✍️ Dev Quote
 
