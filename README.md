@@ -1,4 +1,4 @@
-<!-- 🌟 Shreyas Naik | Animated Header + Clean Layout -->
+<!-- 🌟 Shreyas Naik | Animated Header + Custom Layout -->
 
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -12,20 +12,20 @@
 
 ---
 
-## 🧠 About Me
-
-- 🎬 Creative **Video Editor** with a passion for visual storytelling  
-- 💻 Full-stack developer with **Node.js**, **C/C++**, **PostgreSQL**, **Python**, **JS**  
-- 🌐 Comfortable with **HTML, CSS, Bootstrap, Express**  
-- 🤖 AIML enthusiast exploring intelligent backend systems  
-
----
-
 ## 🚀 Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,js,nodejs,express,postgres,html,css,bootstrap,c,cpp&theme=dark" />
 </p>
+
+---
+
+## 🧠 About Me
+
+- 🎬 Creative **Video Editor** with a passion for visual storytelling  
+- 💻 Full-stack developer with **Node.js**, **C/C++**, **PostgreSQL**, **Python**, **JavaScript**  
+- 🌐 Comfortable with **HTML, CSS, Bootstrap, Express**  
+- 🤖 AIML enthusiast exploring intelligent backend systems  
 
 ---
 
