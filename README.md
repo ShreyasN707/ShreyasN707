@@ -1,9 +1,11 @@
-<!-- 🌌 Shreyas Naik | Minimal Futuristic README -->
+<!-- 🌌 Shreyas Naik | Futuristic Developer README -->
+
+<h1 align="center">
+  👋 Hi, I'm <span style="color:#7f5af0;">Shreyas</span>
+</h1>
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=7F5AF0&center=true&vCenter=true&width=600&lines=Hi+I'm+Shreyas+👋;A+Video+Editor+🎬;A+Developer+💻;A+Backend+Engineer+🛠️;An+AIML+Enthusiast+🤖" alt="Typing Intro" />
-  </a>
+  🎬 <strong>Video Editor</strong> &nbsp;|&nbsp; 💻 <strong>Developer</strong> &nbsp;|&nbsp; 🛠️ <strong>Backend Engineer</strong> &nbsp;|&nbsp; 🤖 <strong>AIML Enthusiast</strong>
 </p>
 
 ---
@@ -56,4 +58,3 @@
 ---
 
 > 🔥 *Blending creativity with code. Editing visuals, building backends, and training AI — that's my world.*
-
