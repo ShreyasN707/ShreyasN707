@@ -27,3 +27,5 @@ Passions:
   - 📸 Aesthetic Photography
   - 💻 Code Experiments (AI/ML, Web, Edge Tech)
 Quote: "Create like an artist. Think like an engineer."
+
+<h3 align="center">✨ Languages</h3> <p align="center"> <img src="https://skillicons.dev/icons?i=python,js,ts,java,cpp,go&theme=light" /> </p> <h3 align="center">🧩 Frameworks & Runtime</h3> <p align="center"> <img src="https://techstack-generator.vercel.app/react-icon.svg" width="40" height="40" /> <img src="https://skillicons.dev/icons?i=nextjs,nodejs,express,flask&theme=light" /> </p> <h3 align="center">📀 Databases & Styling</h3> <p align="center"> <img src="https://skillicons.dev/icons?i=firebase,mysql,tailwind,bootstrap&theme=light" /> </p> <h3 align="center">⚙️ DevTools & Deployment</h3> <p align="center"> <img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,git,github,githubactions,linux&theme=light" /> </p>
