@@ -12,7 +12,7 @@
 
 ---
 
-## 🚀 Tech Stack
+
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,js,nodejs,express,postgres,html,css,bootstrap,c,cpp&theme=dark" />
