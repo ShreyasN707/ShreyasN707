@@ -20,14 +20,14 @@
 
 <div align="center">
 
-<h2><span style="color:#39FF14">Hey!👋 Myself Shreyas N</span></h2>
+<h2><span style="color:39FF14">Hey!👋 Myself Shreyas N</span></h2>
 
-- 🎬 Creative **Video Editor** with a passion for visual storytelling  
-- 💻 Full-stack developer with **Node.js**, **C/C++**, **PostgreSQL**, **Python**, **JavaScript**   
-- 🤖 AIML enthusiast exploring intelligent backend systems  
-- 🧑‍🎓 Still a student exploring the 🌏!
+-  Creative **Video Editor** with a passion for visual storytelling  
+-  Full-stack developer with **Node.js**, **C/C++**, **PostgreSQL**, **Python**, **JavaScript**   
+-  AIML enthusiast exploring intelligent backend systems  
+-  Still a student exploring the 🌏!
 
-<h2><span style="color:#39FF14">Know me more?... Connect here:</span></h2>
+<h2><span style="color:39FF14">Know me more?... Connect here:</span></h2>
 
 <a href="https://instagram.com/adityaaa073">
   <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
