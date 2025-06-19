@@ -1,4 +1,4 @@
-<!-- 🌟 Shreyas Naik | Animated Header + Balanced Layout -->
+<!-- 🌟 Shreyas Naik | Clean & Creative GitHub README -->
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&width=600&lines=I'm+a+Video+Editor;I'm+a+Developer;I'm+a+Backend+Engineer;I'm+an+AIML+Enthusiast" alt="Typing SVG" />
@@ -6,20 +6,16 @@
 
 <img src="https://komarev.com/ghpvc/?username=aditzz073&style=flat-square&color=7f5af0" alt="Profile views" />
 
-## 🚀 Tech Stack
-
-<!-- Row 1 -->
-<p align="left">
+<!-- 🚀 Tech Stack (Centered, 3 Rows, No Heading) -->
+<p align="center">
   <img src="https://skillicons.dev/icons?i=python,nodejs,js&theme=dark" />
 </p>
 
-<!-- Row 2 -->
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=express,html,css,bootstrap,mongodb&theme=dark" />
 </p>
 
-<!-- Row 3 -->
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=docker,git,github,postgres,c,cpp&theme=dark" />
 </p>
 
