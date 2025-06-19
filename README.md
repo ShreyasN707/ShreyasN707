@@ -20,14 +20,14 @@
 
 <div align="center">
 
-## 🧠 About Me
+## Hey!👋 Myself Shreyas N
 
-- 🎬 Creative **Video Editor** with a passion for visual storytelling  
-- 💻 Full-stack developer with **Node.js**, **C/C++**, **PostgreSQL**, **Python**, **JavaScript**  
-- 🌐 Fluent in **HTML, CSS, Bootstrap, Express, MongoDB**  
-- 🤖 AIML enthusiast exploring intelligent backend systems  
+-  Creative **Video Editor** with a passion for visual storytelling  
+-  Full-stack developer with **Node.js**, **C/C++**, **PostgreSQL**, **Python**, **JavaScript**   
+-  AIML enthusiast exploring intelligent backend systems
+-  Still a student exploring the 🌏!
 
-## 🌐 Connect with Me
+## Know me more?...connect here:
 
 <a href="https://instagram.com/adityaaa073">
   <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
