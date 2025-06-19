@@ -22,10 +22,10 @@
 
 <h2><span style="color:#39FF14">Hey!👋 Myself Shreyas N</span></h2>
 
--  Creative **Video Editor** with a passion for visual storytelling  
--  Full-stack developer with **Node.js**, **C/C++**, **PostgreSQL**, **Python**, **JavaScript**   
--  AIML enthusiast exploring intelligent backend systems  
--  Still a student exploring the 🌏!
+🎬 Creative <strong>Video Editor</strong> with a passion for visual storytelling  
+💻 Full-stack developer with <strong>Node.js</strong>, <strong>C/C++</strong>, <strong>PostgreSQL</strong>, <strong>Python</strong>, <strong>JavaScript</strong>  
+🤖 AIML enthusiast exploring intelligent backend systems  
+🧑‍🎓 Still a student exploring the 🌏
 
 <h2><span style="color:#39FF14">Know me more?... Connect here:</span></h2>
 
@@ -39,17 +39,18 @@
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
+</div>
+
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ShreyasN707&show_icons=true&theme=radical&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShreyasN707&layout=donut&theme=radical&hide_border=true" width="48%" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=ShreyasN707&show_icons=true&theme=radical&hide_border=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShreyasN707&layout=donut&theme=radical&hide_border=true" width="48%" />
 
 <p align="center">
   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=ShreyasN707&bg_color=0d1117&color=39FF14&line=39FF14&point=ffffff&area=true&hide_border=true"/>
 </p>
 
+<div align="center">
 
 ## ✍️ Dev Quote
 
