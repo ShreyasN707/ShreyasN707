@@ -1,12 +1,11 @@
-<!-- 🌟 Shreyas Naik | Neo-Aesthetic GitHub README -->
+<!-- 🌟 Shreyas Naik | Neon Green Typing Animation + Clean Layout -->
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=C147E9&center=false&vCenter=true&width=650&lines=Wanna+know+me%3F...;I'm+a+Video+Editor;I'm+a+Photographer;I'm+a+Backend+Engineer;I'm+an+AIML+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2000&pause=800&color=39FF14&center=false&vCenter=true&width=650&lines=Wanna+know+me%3F...;I+am+a+Backend+Engineer;An+AIML+Enthusiast;And+also+a+Video+Editor" alt="Typing SVG" />
 </a>
 
 <img src="https://komarev.com/ghpvc/?username=aditzz073&style=flat-square&color=7f5af0" alt="Profile views" />
 
-<!-- 🚀 Tech Stack (Centered, 3 Rows, No Heading) -->
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,nodejs,js&theme=dark" />
 </p>
@@ -24,7 +23,6 @@
 ## 🧠 About Me
 
 - 🎬 Creative **Video Editor** with a passion for visual storytelling  
-- 📸 Passionate **Photographer** capturing life in frames  
 - 💻 Full-stack developer with **Node.js**, **C/C++**, **PostgreSQL**, **Python**, **JavaScript**  
 - 🌐 Fluent in **HTML, CSS, Bootstrap, Express, MongoDB**  
 - 🤖 AIML enthusiast exploring intelligent backend systems  
