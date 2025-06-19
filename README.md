@@ -1,63 +1,66 @@
-<!-- ====================================== -->
-<!--           Animated Hacker README     -->
-<!-- ====================================== -->
-
-<!-- HEADER WITH ANIMATED WELCOME -->
-<h1 align="center">
-  <img src="https://media.giphy.com/media/3o7buirYcmV5nSwIRW/giphy.gif" width="50" alt="Hacker GIF" />
-  <br/>
-  <strong style="font-size:3em;">{ H4CK  V1B3 }</strong>
-</h1>
-<h3 align="center" style="font-family: monospace;">
-  Welcome, fellow coder. Let's break some code & build the future.
-</h3>
-
-<!-- DIVIDER -->
-<hr/>
-
-<!-- ANIMATED LANGUAGE & TOOLS SECTION -->
-<h2 align="center" style="font-family: monospace;">🚀 Languages & Tools I Command</h2>
+<!-- Typing SVG Header -->
 <p align="center">
-  <!-- Using skillicons.dev for smooth, animated-like logos. You can customize the theme or replace with your own animated GIFs -->
-  <img src="https://skillicons.dev/icons?i=js,nodejs,python,cpp,html,css,mongodb,bootstrap,git,vscode,linux" alt="Languages and Tools" />
-</p>
-
-<!-- GITHUB STATS WITH HACKER TERMINAL VIBE -->
-<h2 align="center" style="font-family: monospace;">💻 GitHub Ops</h2>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=siaplay&show_icons=true&theme=tokyonight&border_radius=10" alt="GitHub Stats" width="47%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=siaplay&theme=tokyonight" alt="GitHub Streak" width="47%" />
-</p>
-
-<!-- ANIMATED HACKER TERMINAL CLIP -->
-<h2 align="center" style="font-family: monospace;">💻 Terminal Mode Engaged</h2>
-<p align="center">
-  <img src="https://media.giphy.com/media/l0HlOvJ7yaacpuSas/giphy.gif" width="70%" alt="Terminal Hacker Vibe" />
-</p>
-
-<!-- PERSONAL MOTTO / QUOTE -->
-<h2 align="center" style="font-family: monospace;">🔥 My Manifesto</h2>
-<p align="center" style="font-size:1.3em; font-family: monospace;">
-  <strong>"Code is the weapon; logic is our shield."</strong> <br/>
-  <em>– SiaPlay</em>
-</p>
-
-<!-- SOCIAL LINKS WITH A HACKER LOOK -->
-<h2 align="center" style="font-family: monospace;">🌐 Connect in the Network</h2>
-<p align="center">
-  <a href="https://linkedin.com/in/yourlink" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://instagram.com/yourhandle" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="mailto:youremail@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=08F7FE&center=true&vCenter=true&multiline=true&width=800&height=80&lines=I'm+a+Full-Stack+Web+Developer;I'm+an+AI%2FML+Enthusiast;I'm+a+Video+Editor+%26+Photographer;I'm+a+Linux+%26+DevOps+Learner" alt="Typing SVG" />
   </a>
 </p>
 
-<!-- ANIMATION FOOTER (OPTIONAL) -->
-<h2 align="center" style="font-family: monospace;">🚨 Keep Hacking, Stay Curious!</h2>
+<!-- Profile View Counter -->
 <p align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="150" alt="Keep Hacking" />
+  <img src="https://komarev.com/ghpvc/?username=aditzz073&style=for-the-badge&color=blueviolet" alt="Profile views" />
+</p>
+
+---
+
+## 👋 Hi there, I'm Aditya!
+I'm a curious creator, blending **AI/ML**, **DevOps**, **Backend**, and **Edge technologies** with a love for **photography** and **video editing**.  
+Here to collaborate, build, break, and learn 💻✨
+
+---
+
+### 🧠 Tech Stack I Command
+<!-- Fully Animated Icons via skillicons.dev & techstack-generator -->
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,ts,java,go,c,cpp&theme=dark" />
+</p>
+<p align="center">
+  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="40" height="40" />
+  <img src="https://skillicons.dev/icons?i=nextjs,nodejs,express,flask&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=tailwind,firebase,mysql&theme=dark" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker&theme=dark" />
+  <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" width="40" height="40" />
+  <img src="https://skillicons.dev/icons?i=jenkins,git,github,githubactions,linux&theme=dark" />
+</p>
+
+---
+
+### 🔗 Connect with Me
+<p align="center">
+  <a href="https://www.instagram.com/adityaaa073">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/aditya-pujer/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:pujeradi@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aditzz073&theme=monokai&hide_border=true" width="47%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditzz073&theme=monokai&hide_border=true&layout=compact" width="47%" />
+</div>
+
+---
+
+### ✍️ Random Dev Quote
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox" />
 </p>
