@@ -42,12 +42,12 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aditzz073&show_icons=true&theme=radical&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditzz073&layout=donut&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ShreyasN707&show_icons=true&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShreyasN707&layout=donut&theme=radical&hide_border=true" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=aditzz073&bg_color=0d1117&color=39FF14&line=39FF14&point=ffffff&area=true&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=ShreyasN707&bg_color=0d1117&color=39FF14&line=39FF14&point=ffffff&area=true&hide_border=true"/>
 </p>
 
 
