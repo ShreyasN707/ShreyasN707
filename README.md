@@ -53,7 +53,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=764ba2&text=Network&height=50&fontSize=30&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=764ba2&text=Wanna_Connect??&height=50&fontSize=30&animation=fadeIn" />
 
   <br/>
 
@@ -71,6 +71,10 @@
 </div>
 
 <br/>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShreyasN707&bg_color=0d1117&color=f5af19&line=ff00cc&point=ffffff&area=true&hide_border=true" />
+</div>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0d1117,1a0b2e,764ba2,667eea&height=80&section=footer" width="100%" />
