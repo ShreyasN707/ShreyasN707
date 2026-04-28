@@ -27,7 +27,7 @@
       <img src="https://github.com/ShreyasN707.png" width="180" alt="Avatar" style="border: 4px solid #000000; border-radius: 0;" />
     </td>
     <td width="600" style="padding: 20px; font-family: 'Share Tech Mono', 'Courier New', monospace; font-size: 16px;">
-      <h2 style="color: #000000; border-bottom: 4px solid #000000; padding-bottom: 5px; margin-top: 0; font-family: 'Orbitron', 'Courier New', monospace; letter-spacing: -1px;">▶ ::: SHREYAS N // NETRUNNER ID</h2>
+      <h2 style="color: #000000; border-bottom: 4px solid #000000; padding-bottom: 5px; margin-top: 0; font-family: 'Orbitron', 'Courier New', monospace; letter-spacing: -1px;">▶ :>> SHREYAS N // NETRUNNER ID</h2>
       <b style="color: #000000;">STATUS... [ ONLINE ]</b> &nbsp;&nbsp; <b style="color: #000000;">ROLE... [ I AM A MF ENGINEER ]</b>
       <br/><br/>
       <b style="color: #000000;"> [>] CORE_DIRECTIVES_ &nbsp;</b><br/>
