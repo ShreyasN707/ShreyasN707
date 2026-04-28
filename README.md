@@ -14,7 +14,7 @@
 
 </div>
 
----
+<br/>
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=22&duration=4000&pause=1000&color=FCEE0A&center=true&vCenter=true&width=500&height=40&lines=SYSTEM_PROFILE+%2F%2F+BIOMETRICS" alt="Title" />
@@ -42,7 +42,7 @@
 </table>
 </div>
 
----
+<br/>
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=22&duration=4000&pause=1000&color=FCEE0A&center=true&vCenter=true&width=500&height=40&lines=ASSETS+%2F%2F+TECH_ARSENAL" alt="Title" />
@@ -65,7 +65,7 @@
 
 </div>
 
----
+<br/>
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=22&duration=4000&pause=1000&color=FCEE0A&center=true&vCenter=true&width=500&height=40&lines=UPLINK+%2F%2F+CONNECT_WITH_ME" alt="Title" />
@@ -104,7 +104,7 @@
   <img src="https://streak-stats.demolab.com/?user=ShreyasN707&theme=dark&hide_border=false&border=FCEE0A&background=0d1117&sideNums=FCEE0A&sideLabels=ffffff&dates=ffffff&ring=FF003C&fire=FF003C&stroke=FCEE0A&currStreakNum=FF003C&currStreakLabel=ffffff&borderRadius=4" width="100%" />
 </div>
 
----
+<br/>
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=22&duration=4000&pause=1000&color=FCEE0A&center=true&vCenter=true&width=500&height=40&lines=REPUTATION+%2F%2F+ACHIEVEMENTS" alt="Title" />
@@ -116,7 +116,7 @@
 
 </div>
 
----
+<br/>
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=22&duration=4000&pause=1000&color=FCEE0A&center=true&vCenter=true&width=500&height=40&lines=TELEMETRY+%2F%2F+DASHBOARD" alt="Title" />
@@ -128,7 +128,7 @@
 
 </div>
 
----
+<br/>
 
 <div align="center">
 
@@ -143,9 +143,9 @@
 </div>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ShreyasN707/ShreyasN707/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ShreyasN707/ShreyasN707/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ShreyasN707/ShreyasN707/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ShreyasN707/ShreyasN707/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ShreyasN707/ShreyasN707/output/github-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ShreyasN707/ShreyasN707/output/github-snake-dark.svg">
 </picture>
 
 </div>
