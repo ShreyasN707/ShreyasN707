@@ -16,7 +16,9 @@
 
 ---
 
-<h3 align="center"> SYSTEM_PROFILE // BIOMETRICS </h3>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=22&duration=4000&pause=1000&color=FCEE0A&center=true&vCenter=true&width=500&height=40&lines=SYSTEM_PROFILE+%2F%2F+BIOMETRICS" alt="Title" />
+</div>
 
 <div align="center">
 <table bgcolor="#FCEE0A" style="border: 4px solid #000000; width: 850px; border-collapse: collapse; background-color: #FCEE0A;">
@@ -24,8 +26,8 @@
     <td align="center" width="250" style="padding: 20px;">
       <img src="https://github.com/ShreyasN707.png" width="180" alt="Avatar" style="border: 4px solid #000000; border-radius: 0;" />
     </td>
-    <td width="600" style="padding: 20px;">
-      <h2 style="color: #000000; border-bottom: 4px solid #000000; padding-bottom: 5px; margin-top: 0;">▶ ::: SHREYAS N // NETRUNNER ID</h2>
+    <td width="600" style="padding: 20px; font-family: 'Share Tech Mono', 'Courier New', monospace; font-size: 16px;">
+      <h2 style="color: #000000; border-bottom: 4px solid #000000; padding-bottom: 5px; margin-top: 0; font-family: 'Orbitron', 'Courier New', monospace; letter-spacing: -1px;">▶ ::: SHREYAS N // NETRUNNER ID</h2>
       <b style="color: #000000;">STATUS... [ ONLINE ]</b> &nbsp;&nbsp; <b style="color: #000000;">ROLE... [ BACKEND ENG ]</b>
       <br/><br/>
       <b style="color: #000000;">[ > ] CORE_DIRECTIVES_ &nbsp;</b><br/>
@@ -42,7 +44,9 @@
 
 ---
 
-<h3 align="center"> ASSETS // TECH_ARSENAL </h3>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=22&duration=4000&pause=1000&color=FCEE0A&center=true&vCenter=true&width=500&height=40&lines=ASSETS+%2F%2F+TECH_ARSENAL" alt="Title" />
+</div>
 
 <div align="center">
 
@@ -63,7 +67,9 @@
 
 ---
 
-<h3 align="center"> __UPLINK // CONNECT_WITH_ME__ </h3>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=22&duration=4000&pause=1000&color=FCEE0A&center=true&vCenter=true&width=500&height=40&lines=UPLINK+%2F%2F+CONNECT_WITH_ME" alt="Title" />
+</div>
 
 <div align="center">
 
@@ -100,7 +106,9 @@
 
 ---
 
-<h3 align="center"> REPUTATION // ACHIEVEMENTS </h3>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=22&duration=4000&pause=1000&color=FCEE0A&center=true&vCenter=true&width=500&height=40&lines=REPUTATION+%2F%2F+ACHIEVEMENTS" alt="Title" />
+</div>
 
 <div align="center">
 
@@ -110,7 +118,9 @@
 
 ---
 
-<h3 align="center"> TELEMETRY // DASHBOARD </h3>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=22&duration=4000&pause=1000&color=FCEE0A&center=true&vCenter=true&width=500&height=40&lines=TELEMETRY+%2F%2F+DASHBOARD" alt="Title" />
+</div>
 
 <div align="center">
 
@@ -122,11 +132,15 @@
 
 <div align="center">
 
-<h3 align="center"> RANDOM // TRANSMISSION </h3>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=22&duration=4000&pause=1000&color=FCEE0A&center=true&vCenter=true&width=500&height=40&lines=RANDOM+%2F%2F+TRANSMISSION" alt="Title" />
+</div>
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote_color=FCEE0A&author_color=ffffff&bg_color=0d1117" />
 
-<h3 align="center"> CONTRIBUTION // GRID </h3>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=22&duration=4000&pause=1000&color=FCEE0A&center=true&vCenter=true&width=500&height=40&lines=CONTRIBUTION+%2F%2F+GRID" alt="Title" />
+</div>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ShreyasN707/ShreyasN707/output/github-contribution-grid-snake-dark.svg">
@@ -140,7 +154,9 @@
 
 <div align="center">
 
-<h2 align="center" style="color: #FF003C; font-family: monospace;">>_ SYSTEM.EXIT(0)</h2>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Rubik+Glitch&weight=900&size=30&duration=4000&pause=1000&color=FF003C&center=true&vCenter=true&width=400&height=50&lines=%3E_+SYSTEM.EXIT(0)" alt="Title" />
+</div>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=600&size=16&duration=4000&pause=1000&color=8b949e&center=true&vCenter=true&width=600&height=40&lines=WAKE+UP.+CODE.+REPEAT.;CONNECTION+TERMINATED..." alt="Footer Typing" />
