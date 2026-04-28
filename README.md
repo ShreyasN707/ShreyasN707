@@ -1,7 +1,9 @@
 <div align="center">
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF003C,100:FCEE0A&height=180&section=header&text=SHREYAS%20N&fontSize=70&fontColor=000000&animation=fadeIn&fontAlignY=45"/>
+
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=65&duration=4000&pause=1000&color=FCEE0A&center=true&vCenter=true&width=1000&height=180&lines=SHREYAS+N;BACKEND+ENGINEER;AI+%2F+ML+RESEARCHER" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=25&duration=3000&pause=1000&color=FCEE0A&center=true&vCenter=true&width=1000&height=50&lines=BACKEND+ENGINEER;AI+%2F+ML+RESEARCHER;VIDEO+EDITOR" alt="Typing SVG" />
 </a>
 
 <p align="center">
@@ -138,12 +140,12 @@
 
 <div align="center">
 
-<h2 align="center" style="color: #FCEE0A;">SYSTEM.EXIT(0)</h2>
+<h2 align="center" style="color: #FCEE0A; font-family: monospace;">SYSTEM.EXIT(0)</h2>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=600&size=16&duration=4000&pause=1000&color=8b949e&center=true&vCenter=true&width=600&height=40&lines=WAKE+UP.+CODE.+REPEAT.;CONNECTION+TERMINATED..." alt="Footer Typing" />
 </p>
 
-![Made with](https://img.shields.io/badge/Made%20with-⚡%20%26%20🔥-0d1117?style=for-the-badge&labelColor=FF003C)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FCEE0A,100:FF003C&height=120&section=footer&reversal=true"/>
 
 </div>
