@@ -30,13 +30,13 @@
       <h2 style="color: #000000; border-bottom: 4px solid #000000; padding-bottom: 5px; margin-top: 0; font-family: 'Orbitron', 'Courier New', monospace; letter-spacing: -1px;">▶ ::: SHREYAS N // NETRUNNER ID</h2>
       <b style="color: #000000;">STATUS... [ ONLINE ]</b> &nbsp;&nbsp; <b style="color: #000000;">ROLE... [ BACKEND ENG ]</b>
       <br/><br/>
-      <b style="color: #000000;">[ > ] CORE_DIRECTIVES_ &nbsp;</b><br/>
-      &nbsp;&nbsp; <b style="color: #000000;">├── Scalable Architecture</b><br/>
-      &nbsp;&nbsp; <b style="color: #000000;">├── Predictive AI Models</b><br/>
+      <b style="color: #000000;"> ---> CORE_DIRECTIVES_ &nbsp;</b><br/>
+      &nbsp;&nbsp; <b style="color: #000000;">├── Backend design</b><br/>
+      &nbsp;&nbsp; <b style="color: #000000;">├── Computer Vision</b><br/>
       &nbsp;&nbsp; <b style="color: #000000;">└── Visual Storytelling</b><br/>
       <br/>
-      <b style="color: #000000;">[ > ] BIO_DATA_ &nbsp;</b><br/>
-      <b style="color: #000000;"><i>"Bridging the gap between robust backend infrastructure and creative technology."</i></b>
+      <b style="color: #000000;"> --->  BIO_DATA_ &nbsp;</b><br/>
+      <b style="color: #000000;"><i>"Just fun building cool CV stuff with good backend."</i></b>
     </td>
   </tr>
 </table>
