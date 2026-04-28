@@ -1,9 +1,9 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF003C,100:FCEE0A&height=180&section=header&text=SHREYAS%20N&fontSize=70&fontColor=000000&animation=fadeIn&fontAlignY=45"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=transparent&height=120&text=SHREYAS%20N&fontSize=90&fontColor=FCEE0A&animation=fadeIn&fontAlignY=60"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=25&duration=3000&pause=1000&color=FCEE0A&center=true&vCenter=true&width=1000&height=50&lines=BACKEND+ENGINEER;AI+%2F+ML+RESEARCHER;VIDEO+EDITOR" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=25&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=1000&height=50&lines=BACKEND+ENGINEER;AI+%2F+ML+RESEARCHER;VIDEO+EDITOR" alt="Typing SVG" />
 </a>
 
 <p align="center">
@@ -19,22 +19,22 @@
 <h3 align="center"> SYSTEM_PROFILE // BIOMETRICS </h3>
 
 <div align="center">
-<table style="border: 2px solid #FCEE0A; width: 850px; border-collapse: collapse; background-color: #0d1117;">
+<table style="border: 4px solid #000000; width: 850px; border-collapse: collapse; background-color: #FCEE0A;">
   <tr>
     <td align="center" width="250" style="padding: 20px;">
-      <img src="https://github.com/ShreyasN707.png" width="180" alt="Avatar" style="border: 2px solid #FCEE0A; border-radius: 4px;" />
+      <img src="https://github.com/ShreyasN707.png" width="180" alt="Avatar" style="border: 4px solid #000000; border-radius: 0;" />
     </td>
     <td width="600" style="padding: 20px;">
-      <h2 style="color: #FCEE0A; border-bottom: 1px solid #30363d; padding-bottom: 8px; margin-top: 0; font-family: monospace;">▶ ::: SHREYAS N // NETRUNNER ID</h2>
-      <code style="color: #FCEE0A; background-color: #161b22; padding: 4px 8px;">STATUS: [ ONLINE ]</code> &nbsp; <code style="color: #FCEE0A; background-color: #161b22; padding: 4px 8px;">CLASS: [ BACKEND ENG ]</code>
+      <h2 style="color: #000000; border-bottom: 4px solid #000000; padding-bottom: 5px; margin-top: 0;">▶ ::: SHREYAS N // NETRUNNER ID</h2>
+      <b style="color: #000000;">STATUS... [ ONLINE ]</b> &nbsp;&nbsp; <b style="color: #000000;">ROLE... [ BACKEND ENG ]</b>
       <br/><br/>
-      <span style="color: #FCEE0A; font-family: monospace;">[ > ] CORE_DIRECTIVES_ </span><br/>
-      <span style="color: #8b949e;">&nbsp;&nbsp; ├── Scalable Architecture</span><br/>
-      <span style="color: #8b949e;">&nbsp;&nbsp; ├── Predictive AI Models</span><br/>
-      <span style="color: #8b949e;">&nbsp;&nbsp; └── Visual Storytelling</span><br/>
+      <b style="color: #000000;">[ > ] CORE_DIRECTIVES_ &nbsp;</b><br/>
+      &nbsp;&nbsp; <b style="color: #000000;">├── Scalable Architecture</b><br/>
+      &nbsp;&nbsp; <b style="color: #000000;">├── Predictive AI Models</b><br/>
+      &nbsp;&nbsp; <b style="color: #000000;">└── Visual Storytelling</b><br/>
       <br/>
-      <span style="color: #FCEE0A; font-family: monospace;">[ > ] BIO_DATA_ </span><br/>
-      <i style="color: #c9d1d9;">"Bridging the gap between resilient backend infrastructure and engaging visual narratives."</i>
+      <b style="color: #000000;">[ > ] BIO_DATA_ &nbsp;</b><br/>
+      <b style="color: #000000;"><i>"Bridging the gap between robust backend infrastructure and creative technology."</i></b>
     </td>
   </tr>
 </table>
@@ -140,12 +140,12 @@
 
 <div align="center">
 
-<h2 align="center" style="color: #FCEE0A; font-family: monospace;">SYSTEM.EXIT(0)</h2>
+<h2 align="center" style="color: #FF003C; font-family: monospace;">>_ SYSTEM.EXIT(0)</h2>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=600&size=16&duration=4000&pause=1000&color=8b949e&center=true&vCenter=true&width=600&height=40&lines=WAKE+UP.+CODE.+REPEAT.;CONNECTION+TERMINATED..." alt="Footer Typing" />
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FCEE0A,100:FF003C&height=120&section=footer&reversal=true"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=transparent&text=OFFLINE&fontSize=60&fontColor=FCEE0A&animation=fadeIn&height=100"/>
 
 </div>
