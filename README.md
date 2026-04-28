@@ -1,10 +1,16 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FCEE0A&height=250&section=header&text=SHREYAS%20N&fontSize=80&fontColor=000000&animation=fadeIn&fontAlignY=40&desc=▶%20BACKEND%20ENGINEER%20%7C%20AI/ML%20RESEARCHER%20%7C%20SYSTEMS%20◀&descAlignY=65&descAlign=50&descSize=20&descColor=000000&stroke=000000&strokeWidth=2"/>
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=25&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=1000&height=50&lines=BACKEND+ENGINEER;AI+%2F+ML+RESEARCHER;VIDEO+EDITOR" alt="Typing SVG" />
-</a>
+<table style="width: 100%; border: 4px solid #000000; border-collapse: collapse; background-color: #FCEE0A;">
+  <tr>
+    <td align="center" style="padding: 15px;">
+      <a href="https://git.io/typing-svg">
+        <img src="https://readme-typing-svg.demolab.com?font=Rubik+Glitch&weight=900&size=90&duration=4000&pause=1000&color=000000&center=true&vCenter=true&width=1000&height=140&lines=SHREYAS+N;NETRUNNER" alt="Header Typing" />
+      </a>
+      <br/>
+      <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=800&size=26&duration=3000&pause=1000&color=000000&center=true&vCenter=true&width=1000&height=40&lines=BACKEND+ENGINEER;AI+%2F+ML+RESEARCHER;SYSTEM+ARCHITECT" alt="Subtitle Typing" />
+    </td>
+  </tr>
+</table>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ShreyasN707&style=for-the-badge&color=FF003C&labelColor=000000&label=SYS.CONNECTIONS" alt="Profile views" />
@@ -146,6 +152,12 @@
   <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=600&size=16&duration=4000&pause=1000&color=8b949e&center=true&vCenter=true&width=600&height=40&lines=WAKE+UP.+CODE.+REPEAT.;CONNECTION+TERMINATED..." alt="Footer Typing" />
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FCEE0A&height=120&section=footer&reversal=true"/>
+<table style="width: 100%; border: 4px solid #000000; border-collapse: collapse; background-color: #FCEE0A;">
+  <tr>
+    <td align="center" style="padding: 15px;">
+      <img src="https://readme-typing-svg.demolab.com?font=Rubik+Glitch&weight=900&size=75&duration=4000&pause=1000&color=000000&center=true&vCenter=true&width=1000&height=120&lines=SYSTEM.EXIT(0);OFFLINE" alt="Footer Typing" />
+    </td>
+  </tr>
+</table>
 
 </div>
