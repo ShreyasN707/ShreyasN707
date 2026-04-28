@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=transparent&height=120&text=SHREYAS%20N&fontSize=90&fontColor=FCEE0A&animation=fadeIn&fontAlignY=60"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0B0B,40:FF003C,100:FCEE0A&height=250&section=header&text=SHREYAS%20N&fontSize=70&fontColor=FCEE0A&animation=fadeIn&fontAlignY=40&desc=⚡%20Backend%20Engineer%20%7C%20AIML%20Enthusiast%20%7C%20Video%20Editor%20⚡&descAlignY=65&descAlign=50&descSize=20&descColor=ffffff&stroke=FF003C&strokeWidth=2"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=25&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=1000&height=50&lines=BACKEND+ENGINEER;AI+%2F+ML+RESEARCHER;VIDEO+EDITOR" alt="Typing SVG" />
@@ -146,6 +146,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=600&size=16&duration=4000&pause=1000&color=8b949e&center=true&vCenter=true&width=600&height=40&lines=WAKE+UP.+CODE.+REPEAT.;CONNECTION+TERMINATED..." alt="Footer Typing" />
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=transparent&text=OFFLINE&fontSize=60&fontColor=FCEE0A&animation=fadeIn&height=100"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FCEE0A,40:FF003C,100:0B0B0B&height=120&section=footer&reversal=true"/>
 
 </div>
