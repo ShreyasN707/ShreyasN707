@@ -29,7 +29,7 @@
         <img src="https://github.com/ShreyasN707.png" width="200" style="border: 3px solid #FCEE0A; border-radius: 4px;" />
       </td>
       <td width="70%" align="left">
-        <h2>SHREYAS NAIK</h2>
+        <h2>SHREYAS N</h2>
         <p style="font-size: 16px;">
           <strong>Designation:</strong> Backend Engineer & AI/ML Enthusiast<br/>
           <strong>Core Directives:</strong> Scalable Systems, Predictive Models, Visual Storytelling
