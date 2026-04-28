@@ -133,7 +133,7 @@
 <div align="center">
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=22&duration=4000&pause=1000&color=FCEE0A&center=true&vCenter=true&width=500&height=40&lines=RANDOM+%2F%2F+TRANSMISSION" alt="Title" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=22&duration=4000&pause=1000&color=FCEE0A&center=true&vCenter=true&width=500&height=40&lines=filler+%2F%2F+TRANSMISSION" alt="Title" />
 </div>
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote_color=FCEE0A&author_color=ffffff&bg_color=0d1117" />
@@ -159,9 +159,9 @@
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=600&size=16&duration=4000&pause=1000&color=8b949e&center=true&vCenter=true&width=600&height=40&lines=WAKE+UP.+CODE.+REPEAT.;CONNECTION+TERMINATED..." alt="Footer Typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=600&size=16&duration=4000&pause=1000&color=8b949e&center=true&vCenter=true&width=600&height=40&lines=CODE.+CODE.+CODE.;CONNECTION+TERMINATED..." alt="Footer Typing" />
 </p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=75&duration=4000&pause=1000&color=000000&background=FCEE0A&center=true&vCenter=true&width=1000&height=140&lines=SYSTEM.EXIT(0);OFFLINE" alt="Footer Typing" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=75&duration=4000&pause=1000&color=000000&background=FCEE0A&center=true&vCenter=true&width=1000&height=140&lines=SYSTEM.EXIT (0);OFFLINE" alt="Footer Typing" />
 
 </div>
