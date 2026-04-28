@@ -162,6 +162,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=600&size=16&duration=4000&pause=1000&color=8b949e&center=true&vCenter=true&width=600&height=40&lines=CODE.+CODE.+CODE.;CONNECTION+TERMINATED..." alt="Footer Typing" />
 </p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=75&duration=4000&pause=1000&color=000000&background=FCEE0A&center=true&vCenter=true&width=1000&height=140&lines=SYSTEM.EXIT (0);OFFLINE" alt="Footer Typing" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=75&duration=4000&pause=1000&color=000000&background=FCEE0A&center=true&vCenter=true&width=1000&height=140&lines=SYSTEM.EXIT+(0);OFFLINE" alt="Footer Typing" />
 
 </div>
