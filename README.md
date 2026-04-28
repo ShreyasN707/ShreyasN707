@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Rubik+Glitch&weight=900&size=90&duration=4000&pause=1000&color=000000&background=FCEE0A&center=true&vCenter=true&width=1000&height=160&lines=SHREYAS+N;NETRUNNER" alt="Header Typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=90&duration=4000&pause=1000&color=000000&background=FCEE0A&center=true&vCenter=true&width=1000&height=160&lines=SHREYAS+N;NETRUNNER" alt="Header Typing" />
 </a>
 <br/>
 <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=800&size=26&duration=3000&pause=1000&color=000000&background=FCEE0A&center=true&vCenter=true&width=1000&height=60&lines=BACKEND+ENGINEER;AI+%2F+ML+RESEARCHER;SYSTEM+ARCHITECT" alt="Subtitle Typing" />
@@ -155,13 +155,13 @@
 <div align="center">
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Rubik+Glitch&weight=900&size=30&duration=4000&pause=1000&color=FF003C&center=true&vCenter=true&width=400&height=50&lines=%3E_+SYSTEM.EXIT(0)" alt="Title" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=30&duration=4000&pause=1000&color=FF003C&center=true&vCenter=true&width=400&height=50&lines=%3E_+SYSTEM.EXIT(0)" alt="Title" />
 </div>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=600&size=16&duration=4000&pause=1000&color=8b949e&center=true&vCenter=true&width=600&height=40&lines=WAKE+UP.+CODE.+REPEAT.;CONNECTION+TERMINATED..." alt="Footer Typing" />
 </p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Rubik+Glitch&weight=900&size=75&duration=4000&pause=1000&color=000000&background=FCEE0A&center=true&vCenter=true&width=1000&height=140&lines=SYSTEM.EXIT(0);OFFLINE" alt="Footer Typing" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=75&duration=4000&pause=1000&color=000000&background=FCEE0A&center=true&vCenter=true&width=1000&height=140&lines=SYSTEM.EXIT(0);OFFLINE" alt="Footer Typing" />
 
 </div>
