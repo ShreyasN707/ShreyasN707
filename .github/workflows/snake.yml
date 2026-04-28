@@ -22,7 +22,7 @@ jobs:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=FF003C&color_dots=%230b0b0b,%234d4700,%23968b00,%23e0d000,%23fcee0a
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=FCEE0A&color_dots=%231a1a1a,%23333333,%23666666,%23aaaaaa,%23ffffff
 
       - name: Push snake SVGs to the output branch
         uses: peaceiris/actions-gh-pages@v4
