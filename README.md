@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=90&duration=4000&pause=1000&color=000000&background=FCEE0A&center=true&vCenter=true&width=1000&height=160&lines=SHREYAS+N;NETRUNNER" alt="Header Typing" />
 </a>
 <br/>
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=800&size=26&duration=3000&pause=1000&color=000000&background=FCEE0A&center=true&vCenter=true&width=1000&height=60&lines=BACKEND+ENGINEER;AI+%2F+ML+RESEARCHER;SYSTEM+ARCHITECT" alt="Subtitle Typing" />
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=800&size=26&duration=3000&pause=1000&color=000000&background=FCEE0A&center=true&vCenter=true&width=1000&height=60&lines=BACKEND+ENGINEER;AI+%2F+ML+EXPLORER;VIDEO+EDITOR" alt="Subtitle Typing" />
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ShreyasN707&style=for-the-badge&color=FF003C&labelColor=000000&label=SYS.CONNECTIONS" alt="Profile views" />
@@ -68,7 +68,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=22&duration=4000&pause=1000&color=FCEE0A&center=true&vCenter=true&width=500&height=40&lines=UPLINK+%2F%2F+CONNECT_WITH_ME" alt="Title" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=22&duration=4000&pause=1000&color=FCEE0A&center=true&vCenter=true&width=500&height=40&lines=UPLINK+%2F%2F+Wanna_know_more?" alt="Title" />
 </div>
 
 <div align="center">
