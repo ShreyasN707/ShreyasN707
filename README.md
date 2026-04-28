@@ -7,7 +7,7 @@
 
 <!-- Typing Animation Banner -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=45&duration=3000&pause=1000&color=FCEE0A&center=true&vCenter=true&width=800&height=120&lines=SHREYAS+NAIK;BACKEND+ENGINEER;AI+%2F+ML+EXPLORER" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=45&duration=3000&pause=1000&color=FCEE0A&center=true&vCenter=true&width=800&height=120&lines=SHREYAS+N;BACKEND+ENGINEER;AI+%2F+ML+EXPLORER" alt="Typing SVG" />
 </a>
 
 <p align="center">
@@ -20,26 +20,28 @@
 
 ---
 
-<h3 align="center"> ⚠️ SYSTEM_PROFILE // BIOMETRICS </h3>
+<br/>
 
 <div align="center">
-  <table border="0" style="border-collapse: collapse; width: 100%; border-color: transparent;">
-    <tr>
-      <td width="30%" align="center">
-        <img src="https://github.com/ShreyasN707.png" width="200" style="border: 3px solid #FCEE0A; border-radius: 4px;" />
-      </td>
-      <td width="70%" align="left">
-        <h2>SHREYAS N</h2>
-        <p style="font-size: 16px;">
-          <strong>Designation:</strong> Backend Engineer & AI/ML Enthusiast<br/>
-          <strong>Core Directives:</strong> Scalable Systems, Predictive Models, Visual Storytelling
-        </p>
-        <blockquote>
-          <i>"I engineer high-performance software architectures while bringing a creative edge through video editing. Bridging the gap between robust logic and compelling narratives."</i>
-        </blockquote>
-      </td>
-    </tr>
-  </table>
+<table style="border: 3px solid #FCEE0A; width: 850px; border-collapse: collapse; background-color: #0d1117;">
+  <tr>
+    <td align="center" width="250" style="padding: 20px;">
+      <img src="https://github.com/ShreyasN707.png" width="180" alt="Avatar" style="border: 2px solid #FCEE0A; border-radius: 0;" />
+    </td>
+    <td width="600" style="padding: 20px;">
+      <h2 style="color: #FCEE0A; border-bottom: 2px solid #FCEE0A; padding-bottom: 5px;">▶ 🆔 SHREYAS N // NETRUNNER ID</h2>
+      <code>STATUS... [ ONLINE ]</code> &nbsp;&nbsp; <code>ROLE... [ BACKEND ENG ]</code>
+      <br/><br/>
+      <b>[ > ] CORE_DIRECTIVES_ &nbsp;</b><br/>
+      &nbsp;&nbsp; ├── <code>Scalable Architecture</code><br/>
+      &nbsp;&nbsp; ├── <code>Predictive AI / ML Models</code><br/>
+      &nbsp;&nbsp; └── <code>Visual Storytelling & Editing</code><br/>
+      <br/>
+      <b>[ > ] BIO_DATA_ &nbsp;</b><br/>
+      <i>"Bridging the gap between robust backend infrastructure and creative technology."</i>
+    </td>
+  </tr>
+</table>
 </div>
 
 ---
