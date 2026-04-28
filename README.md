@@ -1,16 +1,10 @@
 <div align="center">
 
-<table style="width: 100%; border: 4px solid #000000; border-collapse: collapse; background-color: #FCEE0A;">
-  <tr>
-    <td align="center" style="padding: 15px;">
-      <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.demolab.com?font=Rubik+Glitch&weight=900&size=90&duration=4000&pause=1000&color=000000&center=true&vCenter=true&width=1000&height=140&lines=SHREYAS+N;NETRUNNER" alt="Header Typing" />
-      </a>
-      <br/>
-      <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=800&size=26&duration=3000&pause=1000&color=000000&center=true&vCenter=true&width=1000&height=40&lines=BACKEND+ENGINEER;AI+%2F+ML+RESEARCHER;SYSTEM+ARCHITECT" alt="Subtitle Typing" />
-    </td>
-  </tr>
-</table>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Rubik+Glitch&weight=900&size=90&duration=4000&pause=1000&color=000000&background=FCEE0A&center=true&vCenter=true&width=1000&height=160&lines=SHREYAS+N;NETRUNNER" alt="Header Typing" />
+</a>
+<br/>
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=800&size=26&duration=3000&pause=1000&color=000000&background=FCEE0A&center=true&vCenter=true&width=1000&height=60&lines=BACKEND+ENGINEER;AI+%2F+ML+RESEARCHER;SYSTEM+ARCHITECT" alt="Subtitle Typing" />
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ShreyasN707&style=for-the-badge&color=FF003C&labelColor=000000&label=SYS.CONNECTIONS" alt="Profile views" />
@@ -25,7 +19,7 @@
 <h3 align="center"> SYSTEM_PROFILE // BIOMETRICS </h3>
 
 <div align="center">
-<table style="border: 4px solid #000000; width: 850px; border-collapse: collapse; background-color: #FCEE0A;">
+<table bgcolor="#FCEE0A" style="border: 4px solid #000000; width: 850px; border-collapse: collapse; background-color: #FCEE0A;">
   <tr>
     <td align="center" width="250" style="padding: 20px;">
       <img src="https://github.com/ShreyasN707.png" width="180" alt="Avatar" style="border: 4px solid #000000; border-radius: 0;" />
@@ -152,12 +146,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=600&size=16&duration=4000&pause=1000&color=8b949e&center=true&vCenter=true&width=600&height=40&lines=WAKE+UP.+CODE.+REPEAT.;CONNECTION+TERMINATED..." alt="Footer Typing" />
 </p>
 
-<table style="width: 100%; border: 4px solid #000000; border-collapse: collapse; background-color: #FCEE0A;">
-  <tr>
-    <td align="center" style="padding: 15px;">
-      <img src="https://readme-typing-svg.demolab.com?font=Rubik+Glitch&weight=900&size=75&duration=4000&pause=1000&color=000000&center=true&vCenter=true&width=1000&height=120&lines=SYSTEM.EXIT(0);OFFLINE" alt="Footer Typing" />
-    </td>
-  </tr>
-</table>
+<img src="https://readme-typing-svg.demolab.com?font=Rubik+Glitch&weight=900&size=75&duration=4000&pause=1000&color=000000&background=FCEE0A&center=true&vCenter=true&width=1000&height=140&lines=SYSTEM.EXIT(0);OFFLINE" alt="Footer Typing" />
 
 </div>
