@@ -155,7 +155,7 @@
 <div align="center">
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=30&duration=4000&pause=1000&color=FF003C&center=true&vCenter=true&width=400&height=50&lines=%3E_+SYSTEM.EXIT(0)" alt="Title" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=30&duration=4000&pause=1000&color=FF003C&center=true&vCenter=true&width=400&height=50&lines=%3E_+SYSTEM.EXIT+(0)" alt="Title" />
 </div>
 
 <p align="center">
