@@ -15,51 +15,47 @@
 
 ### [ DATA_CORE: ABOUT_ENTITY ]
 
-```json
-{
-  "alias": "ShreyasN707",
-  "class": "Backend Architect / ML Specialist",
-  "faction": "Open Source",
-  "primary_attributes": ["High-Performance Computing", "Distributed Systems", "Cinema-grade Rendering"],
-  "current_directive": "Mastering Advanced Neural Networks & LLMs",
-  "status_code": "200 OK - Ready for deployment"
-}
-```
+<div align="center">
+<pre>
+<code>
++-------------------------------------------------------------+
+|  [>] SYSTEM ALIAS  : ShreyasN707                            |
+|  [>] CLASS         : Backend Architect / ML                 |
+|  [>] LEVEL         : 42 (Master Netrunner)                  |
+|  [>] FACTION       : Open Source                            |
+|  [>] HP            : ████████████████████████████████ 100%  |
+|  [>] MANA          : ████████████████████████████████ 100%  |
+|  [>] DIRECTIVE     : Neural Networks & LLMs                 |
+|  [>] STATUS_CODE   : 200 OK [DEPLOYMENT_READY]              |
++-------------------------------------------------------------+
+</code>
+</pre>
+</div>
 
 ---
 
 ### [ SYS_RESOURCES: TECH_ARSENAL ]
 
-<div align="center">
-  <h4>// LANGUAGES_AND_FRAMEWORKS //</h4>
-  <p>
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/c.svg" alt="c" width="40" height="40"/> &nbsp;
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/cplusplus.svg" alt="cplusplus" width="40" height="40"/> &nbsp;
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/python.svg" alt="python" width="40" height="40"/> &nbsp;
-    <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" alt="javascript" width="40" height="40"/> &nbsp;
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" alt="typescript" width="40" height="40"/> &nbsp;
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> &nbsp;
-    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="nodejs" width="40" height="40"/>
-  </p>
-
-  <h4>// INFRA_AND_DATABASES //</h4>
-  <p>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> &nbsp;
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> &nbsp;
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="redis" width="40" height="40"/> &nbsp;
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> &nbsp;
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> &nbsp;
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-  </p>
-
-  <h4>// CREATIVE_SUITE //</h4>
-  <p>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/40/Adobe_Premiere_Pro_CC_icon.svg" alt="premiere" width="40" height="40"/> &nbsp;
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" alt="photoshop" width="40" height="40"/> &nbsp;
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/cb/Adobe_After_Effects_CC_icon.svg" alt="aftereffects" width="40" height="40"/> &nbsp;
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" alt="figma" width="30" height="40"/>
-  </p>
-</div>
+<br/>
+<p align="center">
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="python" width="55" height="55"/>
+</p>
+<p align="center">
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="js" width="55" height="55"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="ts" width="55" height="55"/>
+</p>
+<p align="center">
+  <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="cpp" width="55" height="55"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="java" width="55" height="55"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="mysql" width="55" height="55"/>
+</p>
+<p align="center">
+  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="docker" width="55" height="55"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="aws" width="55" height="55"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="github" width="55" height="55"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="react" width="55" height="55"/>
+</p>
+<br/>
 
 ---
 
@@ -84,7 +80,8 @@
 
 ### [ ARCHIVE: CONTRIBUTION_MATRIX_SNAKE ]
 <div align="center">
-  <img src="https://raw.githubusercontent.com/ShreyasN707/ShreyasN707/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%" />
+  <p><i>⚠️ Awaiting initial telemetry uplink ... (The snake grid will appear after the GitHub Action runs)</i></p>
+  <img src="https://raw.githubusercontent.com/ShreyasN707/ShreyasN707/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" width="100%" />
 </div>
 
 ---
