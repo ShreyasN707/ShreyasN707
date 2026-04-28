@@ -3,7 +3,7 @@
 <!-- ╔═══════════════════════════════════════════════════════════╗ -->
 <!-- ║           CYBERPUNK HEADER BANNER                        ║ -->
 <!-- ╚═══════════════════════════════════════════════════════════╝ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,50:FF003C,100:FCEE0A&height=250&section=header&text=SHREYAS%20NAIK&fontSize=60&fontColor=FCEE0A&animation=fadeIn&fontAlignY=38&desc=⚡%20Backend%20Engineer%20%7C%20AIML%20Enthusiast%20%7C%20Video%20Editor%20⚡&descAlignY=62&descAlign=50&descSize=18&descColor=ffffff"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0B0B,40:FF003C,100:FCEE0A&height=250&section=header&text=SHREYAS%20NAIK&fontSize=70&fontColor=FCEE0A&animation=fadeIn&fontAlignY=40&desc=⚡%20Backend%20Engineer%20%7C%20AIML%20Enthusiast%20%7C%20Video%20Editor%20⚡&descAlignY=65&descAlign=50&descSize=20&descColor=ffffff&stroke=FF003C&strokeWidth=2"/>
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
@@ -117,7 +117,7 @@
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=ShreyasN707&theme=discord&no-frame=true&no-bg=true&row=1&column=7&margin-w=4&title_color=FF003C&text_color=ffffff" width="100%" />
+<img src="https://github-profile-trophy.vercel.app/?username=ShreyasN707&no-frame=true&no-bg=true&row=1&column=7&margin-w=4&title_color=FCEE0A&text_color=ffffff" width="100%" />
 
 </div>
 
