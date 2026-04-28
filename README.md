@@ -23,22 +23,22 @@
 <br/>
 
 <div align="center">
-<table style="border: 3px solid #FCEE0A; width: 850px; border-collapse: collapse; background-color: #0d1117;">
+<table style="border: 4px solid #000000; width: 850px; border-collapse: collapse; background-color: #FCEE0A;">
   <tr>
     <td align="center" width="250" style="padding: 20px;">
-      <img src="https://github.com/ShreyasN707.png" width="180" alt="Avatar" style="border: 2px solid #FCEE0A; border-radius: 0;" />
+      <img src="https://github.com/ShreyasN707.png" width="180" alt="Avatar" style="border: 4px solid #000000; border-radius: 0;" />
     </td>
     <td width="600" style="padding: 20px;">
-      <h2 style="color: #FCEE0A; border-bottom: 2px solid #FCEE0A; padding-bottom: 5px;">▶ 🆔 SHREYAS N // NETRUNNER ID</h2>
-      <code>STATUS... [ ONLINE ]</code> &nbsp;&nbsp; <code>ROLE... [ BACKEND ENG ]</code>
+      <h2 style="color: #000000; border-bottom: 4px solid #000000; padding-bottom: 5px; margin-top: 0;">▶ 🆔 SHREYAS N // NETRUNNER ID</h2>
+      <b style="color: #000000;">STATUS... [ ONLINE ]</b> &nbsp;&nbsp; <b style="color: #000000;">ROLE... [ BACKEND ENG ]</b>
       <br/><br/>
-      <b>[ > ] CORE_DIRECTIVES_ &nbsp;</b><br/>
-      &nbsp;&nbsp; ├── <code>Scalable Architecture</code><br/>
-      &nbsp;&nbsp; ├── <code>Predictive AI / ML Models</code><br/>
-      &nbsp;&nbsp; └── <code>Visual Storytelling & Editing</code><br/>
+      <b style="color: #000000;">[ > ] CORE_DIRECTIVES_ &nbsp;</b><br/>
+      &nbsp;&nbsp; <b style="color: #000000;">├── Scalable Architecture</b><br/>
+      &nbsp;&nbsp; <b style="color: #000000;">├── Predictive AI / ML Models</b><br/>
+      &nbsp;&nbsp; <b style="color: #000000;">└── Visual Storytelling & Editing</b><br/>
       <br/>
-      <b>[ > ] BIO_DATA_ &nbsp;</b><br/>
-      <i>"Bridging the gap between robust backend infrastructure and creative technology."</i>
+      <b style="color: #000000;">[ > ] BIO_DATA_ &nbsp;</b><br/>
+      <b style="color: #000000;"><i>"Bridging the gap between robust backend infrastructure and creative technology."</i></b>
     </td>
   </tr>
 </table>
