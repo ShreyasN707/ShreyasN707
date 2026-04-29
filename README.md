@@ -78,7 +78,7 @@
 </a>
 &nbsp;
 <a href="mailto:shreyasnaik81@gmail.com">
-  <img src="https://img.shields.io/badge/Comm_Link-000000?style=for-the-badge&logo=gmail&logoColor=FCEE0A&labelColor=FCEE0A" />
+  <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=FCEE0A&labelColor=FCEE0A" />
 </a>
 &nbsp;
 <a href="https://www.instagram.com/shreyas__n?igsh=MW0yZ2trazV4cXZvYw==">
