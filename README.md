@@ -89,27 +89,7 @@
 
 <br/>
 
-<div align="center">
-  <table border="0" cellspacing="10" cellpadding="0" style="background-color: transparent;">
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=ShreyasN707&show_icons=true&title_color=FCEE0A&icon_color=FF003C&bg_color=0d1117&text_color=ffffff&border_color=FCEE0A&hide_border=false&count_private=true&border_radius=4" height="190" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShreyasN707&layout=compact&title_color=FCEE0A&bg_color=0d1117&text_color=ffffff&border_color=FCEE0A&hide_border=false&langs_count=8&border_radius=4" height="190" />
-      </td>
-    </tr>
-  </table>
-  <br/>
-  <img src="https://streak-stats.demolab.com/?user=ShreyasN707&theme=dark&hide_border=false&border=FCEE0A&background=0d1117&sideNums=FCEE0A&sideLabels=ffffff&dates=ffffff&ring=FF003C&fire=FF003C&stroke=FCEE0A&currStreakNum=FF003C&currStreakLabel=ffffff&borderRadius=4" width="100%" />
-</div>
 
-<br/>
-
-
-
-
-<br/>
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=22&duration=4000&pause=1000&color=FCEE0A&center=true&vCenter=true&width=500&height=40&lines=DASHBOARD" alt="Title" />
