@@ -126,7 +126,7 @@
 <div align="center">
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=22&duration=4000&pause=1000&color=FCEE0A&center=true&vCenter=true&width=500&height=40&lines=Just+a+Thought+(Vibe+coded)+:)" alt="Title" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=22&duration=4000&pause=1000&color=FCEE0A&center=true&vCenter=true&width=500&height=40&lines=Just+a+Thought+[+Vibe+coded+:)+]" alt="Title" />
 </div>
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote_color=FCEE0A&author_color=ffffff&bg_color=0d1117" />
