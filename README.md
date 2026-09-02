@@ -30,7 +30,7 @@
       <h2 style="color: #000000; border-bottom: 4px solid #000000; padding-bottom: 5px; margin-top: 0; font-family: 'Orbitron', 'Courier New', monospace; letter-spacing: -1px;">I am SHREYAS N </h2>
       <b style="color: #000000;">STUDENT :</b> &nbsp;&nbsp; <b style="color: #000000;">just a student :)</b>
       <br/><br/>
-      <b style="color: #000000;"> Trying to be :&nbsp;</b><br/>
+      <b style="color: #000000;"> Trying to do :&nbsp;</b><br/>
       &nbsp;&nbsp; <b style="color: #000000;">- Backend engineer</b><br/>
       &nbsp;&nbsp; <b style="color: #000000;">- Computer Vision</b><br/>
       &nbsp;&nbsp; <b style="color: #000000;">- Visual Storytelling</b><br/>
