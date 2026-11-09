@@ -1,0 +1,210 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 405" width="880" height="405">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0d1117" />
+      <stop offset="100%" stop-color="#111620" />
+    </linearGradient>
+    <linearGradient id="screenGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#070a10" />
+      <stop offset="100%" stop-color="#0a0f18" />
+    </linearGradient>
+    <linearGradient id="scanlineGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#58a6ff" stop-opacity="0" />
+      <stop offset="30%" stop-color="#58a6ff" stop-opacity="0.4" />
+      <stop offset="50%" stop-color="#38bdf8" stop-opacity="0.8" />
+      <stop offset="70%" stop-color="#58a6ff" stop-opacity="0.4" />
+      <stop offset="100%" stop-color="#58a6ff" stop-opacity="0" />
+    </linearGradient>
+    <filter id="cyanGlow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="1" result="blur" />
+      <feMerge>
+        <feMergeNode in="blur" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+    <clipPath id="screenClip">
+      <rect x="25" y="52" width="440" height="328" rx="8" />
+    </clipPath>
+  </defs>
+
+  <style>
+    .card {
+      fill: url(#bgGrad);
+      stroke: #30363d;
+      stroke-width: 1.2;
+      rx: 12px;
+    }
+    .mono {
+      font-family: 'JetBrains Mono', 'Fira Code', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
+      font-size: 10px;
+      letter-spacing: 1.1px;
+    }
+    .sp {
+      fill: transparent;
+    }
+    .bit-0 {
+      fill: #38bdf8;
+      font-weight: 600;
+      opacity: 0.82;
+    }
+    .bit-1 {
+      fill: #ffffff;
+      font-weight: 800;
+      filter: drop-shadow(0 0 1.5px #58a6ff);
+    }
+    .term-title {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+      font-size: 12.5px;
+      font-weight: 600;
+      fill: #c9d1d9;
+    }
+    .term-text {
+      font-family: 'JetBrains Mono', 'Fira Code', ui-monospace, SFMono-Regular, monospace;
+      font-size: 11.5px;
+      fill: #c9d1d9;
+    }
+    .term-dim {
+      fill: #7d8590;
+    }
+    .term-accent {
+      fill: #58a6ff;
+      font-weight: 600;
+    }
+    .term-cyan {
+      fill: #38bdf8;
+      font-weight: 600;
+    }
+    .term-green {
+      fill: #3fb950;
+      font-weight: 600;
+    }
+    .term-yellow {
+      fill: #e3b341;
+    }
+    .term-purple {
+      fill: #bc8cff;
+    }
+
+    @keyframes scan {
+      0% { transform: translateY(0); opacity: 0; }
+      10% { opacity: 0.7; }
+      90% { opacity: 0.7; }
+      100% { transform: translateY(325px); opacity: 0; }
+    }
+    .scanline {
+      animation: scan 4s ease-in-out infinite;
+    }
+
+    @keyframes blink {
+      0%, 49% { opacity: 1; }
+      50%, 100% { opacity: 0; }
+    }
+    .cursor {
+      animation: blink 1s infinite;
+      fill: #58a6ff;
+    }
+
+    @keyframes pulseGlow {
+      0%, 100% { opacity: 0.9; }
+      50% { opacity: 1; }
+    }
+    .pulse {
+      animation: pulseGlow 3s ease-in-out infinite;
+    }
+  </style>
+
+  <!-- Base Window -->
+  <rect x="2" y="2" width="876" height="401" class="card" />
+
+  <!-- Terminal Window Top Bar -->
+  <path d="M 2 2 L 878 2 Q 878 2 878 2 L 878 36 L 2 36 Z" fill="#161b22" />
+  <line x1="2" y1="36" x2="878" y2="36" stroke="#30363d" stroke-width="1.2" />
+
+  <!-- Window Dots -->
+  <circle cx="24" cy="19" r="5" fill="#ff5f56" />
+  <circle cx="40" cy="19" r="5" fill="#ffbd2e" />
+  <circle cx="56" cy="19" r="5" fill="#27c93f" />
+
+  <!-- Title Center -->
+  <text x="440" y="23" text-anchor="middle" class="term-title">shreyas@workstation: ~/biometrics/avatar.bin (BINARY_CODED_01)</text>
+  <text x="856" y="22" text-anchor="end" class="mono term-dim" font-size="9.5">UTF-8 // 0x707</text>
+
+  <!-- Left: Binary Picture Terminal Screen -->
+  <rect x="25" y="50" width="440" height="332" rx="8" fill="url(#screenGrad)" stroke="#21262d" stroke-width="1.2" />
+  
+  <!-- Mini Screen Header -->
+  <rect x="25" y="50" width="440" height="22" fill="#0d1117" />
+  <line x1="25" y1="72" x2="465" y2="72" stroke="#21262d" stroke-width="1" />
+  <text x="35" y="65" class="mono term-accent" font-size="9.5">&gt; RASTERIZE: AVATAR.BIN [FORMAT: 0 &amp; 1]</text>
+  <text x="455" y="65" text-anchor="end" class="mono term-green" font-size="9">LIVE</text>
+  <circle cx="423" cy="62" r="2.5" fill="#3fb950" />
+
+  <!-- Binary Characters Group with Scanline inside Clip -->
+  <g clip-path="url(#screenClip)" class="pulse">
+    <text x="38" y="86.0" xml:space="preserve" class="mono"><tspan class="sp">                      </tspan><tspan class="bit-0">000000</tspan><tspan class="sp">                            </tspan></text>
+    <text x="38" y="98.8" xml:space="preserve" class="mono"><tspan class="sp">                   </tspan><tspan class="bit-0">0</tspan><tspan class="bit-1">1111</tspan><tspan class="bit-0">00000000</tspan><tspan class="sp">                        </tspan></text>
+    <text x="38" y="111.6" xml:space="preserve" class="mono"><tspan class="sp">                 </tspan><tspan class="bit-0">0</tspan><tspan class="bit-1">1111</tspan><tspan class="bit-0">000000000</tspan><tspan class="bit-1">11</tspan><tspan class="bit-0">0</tspan><tspan class="sp">                      </tspan></text>
+    <text x="38" y="124.4" xml:space="preserve" class="mono"><tspan class="sp">               </tspan><tspan class="bit-0">0</tspan><tspan class="bit-1">11111</tspan><tspan class="bit-0">00000000000</tspan><tspan class="bit-1">11</tspan><tspan class="bit-0">00</tspan><tspan class="sp">                    </tspan></text>
+    <text x="38" y="137.2" xml:space="preserve" class="mono"><tspan class="sp">              </tspan><tspan class="bit-0">0</tspan><tspan class="bit-1">11111</tspan><tspan class="bit-0">00000000000</tspan><tspan class="bit-1">1111</tspan><tspan class="bit-0">00</tspan><tspan class="sp">                   </tspan></text>
+    <text x="38" y="150.0" xml:space="preserve" class="mono"><tspan class="sp">             </tspan><tspan class="bit-0">0</tspan><tspan class="bit-1">111111</tspan><tspan class="bit-0">0000000</tspan><tspan class="bit-1">111</tspan><tspan class="bit-0">0000</tspan><tspan class="bit-1">1</tspan><tspan class="bit-0">0</tspan><tspan class="bit-1">11</tspan><tspan class="bit-0">0</tspan><tspan class="sp">                 </tspan></text>
+    <text x="38" y="162.8" xml:space="preserve" class="mono"><tspan class="sp">             </tspan><tspan class="bit-1">1111111</tspan><tspan class="bit-0">0000000</tspan><tspan class="bit-1">11</tspan><tspan class="bit-0">00</tspan><tspan class="bit-1">1</tspan><tspan class="bit-0">0000</tspan><tspan class="bit-1">111</tspan><tspan class="sp">                 </tspan></text>
+    <text x="38" y="175.6" xml:space="preserve" class="mono"><tspan class="sp">            </tspan><tspan class="bit-0">0</tspan><tspan class="bit-1">1111111</tspan><tspan class="bit-0">00000000</tspan><tspan class="bit-1">11</tspan><tspan class="bit-0">0</tspan><tspan class="bit-1">11</tspan><tspan class="bit-0">0000</tspan><tspan class="bit-1">11</tspan><tspan class="bit-0">0</tspan><tspan class="sp">                </tspan></text>
+    <text x="38" y="188.4" xml:space="preserve" class="mono"><tspan class="sp">           </tspan><tspan class="bit-0">0</tspan><tspan class="bit-1">1111111</tspan><tspan class="bit-0">000000000</tspan><tspan class="bit-1">1</tspan><tspan class="bit-0">00</tspan><tspan class="bit-1">111</tspan><tspan class="bit-0">00</tspan><tspan class="bit-1">1111</tspan><tspan class="sp">                </tspan></text>
+    <text x="38" y="201.2" xml:space="preserve" class="mono"><tspan class="sp">           </tspan><tspan class="bit-0">0</tspan><tspan class="bit-1">11111111</tspan><tspan class="bit-0">000000000</tspan><tspan class="bit-1">1</tspan><tspan class="bit-0">0</tspan><tspan class="bit-1">1111111111</tspan><tspan class="bit-0">000</tspan><tspan class="bit-1">11111111111</tspan><tspan class="sp"> </tspan></text>
+    <text x="38" y="214.0" xml:space="preserve" class="mono"><tspan class="sp">           </tspan><tspan class="bit-0">0</tspan><tspan class="bit-1">11111111</tspan><tspan class="bit-0">00000</tspan><tspan class="bit-1">1</tspan><tspan class="bit-0">00</tspan><tspan class="bit-1">11111111111111111111111111</tspan><tspan class="bit-0">0</tspan><tspan class="sp"> </tspan></text>
+    <text x="38" y="226.8" xml:space="preserve" class="mono"><tspan class="sp">           </tspan><tspan class="bit-0">0</tspan><tspan class="bit-1">11111111</tspan><tspan class="bit-0">0000000</tspan><tspan class="bit-1">111111111111111111</tspan><tspan class="bit-0">0000</tspan><tspan class="bit-1">111</tspan><tspan class="bit-0">0</tspan><tspan class="sp">   </tspan></text>
+    <text x="38" y="239.6" xml:space="preserve" class="mono"><tspan class="sp">            </tspan><tspan class="bit-1">111111111111</tspan><tspan class="bit-0">0</tspan><tspan class="bit-1">11111111111111111111111111</tspan><tspan class="sp">     </tspan></text>
+    <text x="38" y="252.4" xml:space="preserve" class="mono"><tspan class="sp">            </tspan><tspan class="bit-1">11111111111111111111111111111111111</tspan><tspan class="bit-0">00</tspan><tspan class="sp">       </tspan></text>
+    <text x="38" y="265.2" xml:space="preserve" class="mono"><tspan class="sp">       </tspan><tspan class="bit-0">000</tspan><tspan class="bit-1">111111111111111111111111111111111</tspan><tspan class="bit-0">00</tspan><tspan class="sp">           </tspan></text>
+    <text x="38" y="278.0" xml:space="preserve" class="mono"><tspan class="sp">    </tspan><tspan class="bit-0">0</tspan><tspan class="bit-1">111111111111111111111111111111</tspan><tspan class="bit-0">0000</tspan><tspan class="sp">                 </tspan></text>
+    <text x="38" y="290.8" xml:space="preserve" class="mono"><tspan class="sp">  </tspan><tspan class="bit-0">0</tspan><tspan class="bit-1">11111111111111111111111111</tspan><tspan class="bit-0">00</tspan><tspan class="sp">                         </tspan></text>
+    <text x="38" y="303.6" xml:space="preserve" class="mono"><tspan class="sp"> </tspan><tspan class="bit-1">11111111111111111111111111</tspan><tspan class="bit-0">0</tspan><tspan class="sp">                            </tspan></text>
+    <text x="38" y="316.4" xml:space="preserve" class="mono"><tspan class="bit-0">0</tspan><tspan class="bit-1">11</tspan><tspan class="bit-0">000</tspan><tspan class="bit-1">111111111111111111</tspan><tspan class="bit-0">000</tspan><tspan class="sp">                             </tspan></text>
+    <text x="38" y="329.2" xml:space="preserve" class="mono"><tspan class="bit-1">11</tspan><tspan class="bit-0">0</tspan><tspan class="bit-1">1</tspan><tspan class="bit-0">0</tspan><tspan class="bit-1">11111111111111111</tspan><tspan class="bit-0">00</tspan><tspan class="sp">                                </tspan></text>
+    <text x="38" y="342.0" xml:space="preserve" class="mono"><tspan class="bit-0">0</tspan><tspan class="bit-1">1111111111111111111</tspan><tspan class="bit-0">0</tspan><tspan class="sp">                                   </tspan></text>
+    <text x="38" y="354.8" xml:space="preserve" class="mono"><tspan class="sp"> </tspan><tspan class="bit-0">0</tspan><tspan class="bit-1">11111</tspan><tspan class="bit-0">0</tspan><tspan class="bit-1">11111111</tspan><tspan class="bit-0">0</tspan><tspan class="sp">                                       </tspan></text>
+    <text x="38" y="367.6" xml:space="preserve" class="mono"><tspan class="sp">   </tspan><tspan class="bit-0">0</tspan><tspan class="sp">   </tspan><tspan class="bit-0">0</tspan><tspan class="bit-1">11</tspan><tspan class="bit-0">00000</tspan><tspan class="sp">                                         </tspan></text>
+    <!-- Moving Scanline -->
+    <rect x="25" y="50" width="440" height="3" fill="url(#scanlineGrad)" class="scanline" />
+  </g>
+
+  <!-- Right: Identity & Telemetry Container -->
+  <g transform="translate(485, 50)">
+    <rect x="0" y="0" width="370" height="332" rx="8" fill="#0c1017" stroke="#21262d" stroke-width="1.2" />
+    
+    <!-- Header banner in card -->
+    <rect x="0" y="0" width="370" height="22" fill="#0f141d" />
+    <line x1="0" y1="22" x2="370" y2="22" stroke="#21262d" stroke-width="1" />
+    <text x="14" y="15" class="mono term-accent" font-size="9.5">┌── [ OPERATOR_PROFILE ]</text>
+    <text x="356" y="15" text-anchor="end" class="mono term-dim" font-size="9">ID: #103553912</text>
+
+    <!-- Bio Details -->
+    <g transform="translate(16, 26)">
+      <text x="0" y="24" class="term-text"><tspan class="term-dim">USER    │</tspan> <tspan class="term-accent" font-weight="700">Shreyas N</tspan> <tspan class="term-dim">(@ShreyasN707)</tspan></text>
+      
+      <text x="0" y="50" class="term-text"><tspan class="term-dim">ROLE    │</tspan> <tspan class="term-green">Backend Engineer</tspan> • <tspan class="term-purple">AI/ML Explorer</tspan></text>
+      
+      <text x="0" y="76" class="term-text"><tspan class="term-dim">DOMAIN  │</tspan> <tspan class="term-cyan">Computer Vision &amp; High-Perf Backend</tspan></text>
+      
+      <text x="0" y="104" class="term-text"><tspan class="term-dim">BIO     │</tspan> <tspan class="term-yellow">"Building cool CV stuff with good backend."</tspan></text>
+      
+      <line x1="0" y1="120" x2="338" y2="120" stroke="#21262d" stroke-width="1" stroke-dasharray="3 3" />
+
+      <text x="0" y="142" class="mono term-accent" font-size="10.5">├── [ CORE_DIRECTIVES ]</text>
+      <text x="0" y="166" class="term-text"><tspan class="term-dim">├─►</tspan> Scalable APIs &amp; Microservices Architecture</text>
+      <text x="0" y="188" class="term-text"><tspan class="term-dim">├─►</tspan> Real-time Computer Vision &amp; Deep Learning</text>
+      <text x="0" y="210" class="term-text"><tspan class="term-dim">└─►</tspan> Visual Storytelling &amp; Media Tech</text>
+
+      <line x1="0" y1="226" x2="338" y2="226" stroke="#21262d" stroke-width="1" stroke-dasharray="3 3" />
+
+      <text x="0" y="248" class="mono term-accent" font-size="10.5">└── [ TELEMETRY_STATE ]</text>
+      <text x="0" y="272" class="term-text"><tspan class="term-dim">STATUS  │</tspan> <tspan class="term-green">● ONLINE</tspan> <tspan class="term-dim">[READY_FOR_COMMITS]</tspan><tspan class="cursor"> █</tspan></text>
+      <text x="0" y="294" class="term-text"><tspan class="term-dim">COMM    │</tspan> <tspan class="term-accent">shreyasnaik81@gmail.com</tspan></text>
+    </g>
+  </g>
+
+  <!-- Bottom Terminal Status Bar -->
+  <g transform="translate(26, 394)">
+    <text x="0" y="0" class="mono term-dim" font-size="9">BIN: 01010011 01001000 01010010 01000101 01011001 01000001 01010011 // SHREYAS // UTF-8 DECODED</text>
+  </g>
+</svg>
